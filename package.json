@@ -217,6 +217,7 @@
     "@vscode-elements/elements": "^1.8.0",
     "@vscode/codicons": "^0.0.35",
     "axios": "^1.8.2",
+    "esbuild": "^0.25.2",
     "extract-zip": "^2.0.1",
     "follow-redirects": "^1.15.6",
     "lodash.debounce": "^4.0.8",
